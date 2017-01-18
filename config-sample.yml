@@ -1,0 +1,12 @@
+# デバイスID (Cumulocityが払い出したID)
+deviceId: "******"
+# CumulocityへのログインID
+userId: "******"
+# Cumulocityへのログインパスワード
+password:  "******"
+# CumulocityのURL
+url: "******"
+# WioNodeのアクセストークン
+token: "******"
+# データ収集周期(秒)
+interval: 5
