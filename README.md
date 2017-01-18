@@ -29,7 +29,7 @@ Grove Water Sensorの値をWioNodeを使ってCumulocityに投稿するための
 参考：[WioNode Wiki](http://wiki.seeed.cc/Wio_Node/)  
 
 Get Started の Step1〜Step4 を実行してください。  
-Step4 については、Input > General Digital Input を選んでください。
+Step4 については、Input > Generic Digital Input を選んでください。
   
 ## watersensorのダウンロード
 
